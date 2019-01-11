@@ -1,5 +1,9 @@
 # Draw.io GitHub Integration
 
+![Diagram](./Untitled%20Diagram.xml)
+
+<a href="https://www.draw.io/?mode=github#Hhiredgun%2Fdrawio-github%2Fmaster%2FUntitled%20Diagram.xml" target="_blank">Edit above diagram</a>
+
 Please read <a href="https://github.com/jgraph/drawio-html5" target="_blank">this</a> for a high-level introduction.
 
 GitHub support is now available https://www.draw.io/?mode=github
